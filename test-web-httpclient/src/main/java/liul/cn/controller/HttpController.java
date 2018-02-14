@@ -1,9 +1,7 @@
 package liul.cn.controller;
 
-import java.io.IOException;
 import java.util.List;
 
-import org.apache.http.client.ClientProtocolException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Scope;

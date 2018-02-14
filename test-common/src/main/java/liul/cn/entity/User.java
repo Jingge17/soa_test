@@ -6,7 +6,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
-import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.Length;
 @Table(name="soa_user")
